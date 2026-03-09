@@ -7,7 +7,7 @@ import sys
 import pywhatkit
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyC3sOPXN_j8gPbTZfNPOa5WcId6k24BzhM")
+genai.configure(api_key="Your-Gemini-API")
 
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
