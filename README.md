@@ -18,4 +18,5 @@ Voice controlled AI assistant built using Python, Speech Recognition and Gemini 
 ## Run Project
 
 pip install -r requirements.txt
+
 python jarvis.py
